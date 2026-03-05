@@ -1,2 +1,3 @@
 irm https://massgrave.dev/get | iex
+https://massgrave.dev
 
